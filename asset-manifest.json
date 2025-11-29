@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/venus-date/static/js/main.36133390.js",
+    "main.js": "/venus-date/static/js/main.a368bd37.js",
     "static/media/golden_kiss_moment_2.mp4": "/venus-date/static/media/golden_kiss_moment_2.adc00acb07bf174fb59e.mp4",
     "static/media/blog-post-4.jpg": "/venus-date/static/media/blog-post-4.ac0638c5a19efb554dfe.jpg",
     "static/media/blog-post-3.jpg": "/venus-date/static/media/blog-post-3.8eee9c0e527309a03795.jpg",
@@ -20,9 +20,9 @@
     "static/media/vika1.jpg": "/venus-date/static/media/vika1.a93a538ed498791f5556.jpg",
     "static/media/ukranian-matchmakers-logo.png": "/venus-date/static/media/ukranian-matchmakers-logo.ce7947b68b50fc291abe.png",
     "index.html": "/venus-date/index.html",
-    "main.36133390.js.map": "/venus-date/static/js/main.36133390.js.map"
+    "main.a368bd37.js.map": "/venus-date/static/js/main.a368bd37.js.map"
   },
   "entrypoints": [
-    "static/js/main.36133390.js"
+    "static/js/main.a368bd37.js"
   ]
 }

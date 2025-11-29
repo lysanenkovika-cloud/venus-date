@@ -133,15 +133,27 @@ yarn build
 
 ## Deployment
 
+### Deploy to GitHub Pages (Recommended)
+
+The project has automated deployment through GitHub Actions.
+
+**Automatic deploy:**
+```bash
+git push origin main  # Автоматично деплоїться при push
+```
+
+**Manual deploy:**
+```bash
+npm run deploy  # Локальний деплой (потрібен .env файл)
+```
+
+📖 **Повна інструкція:** [GITHUB_PAGES_SETUP.md](GITHUB_PAGES_SETUP.md)
+
+**Live site:** https://lysanenkovika-cloud.github.io/venus-date
+
 ### Deploy to Genezio
 
 The project is configured for deployment to Genezio. Use the `genezio.yaml` configuration file for deployment settings.
-
-### Deploy to GitHub Pages
-
-```bash
-npm run deploy
-```
 
 ## Pages
 

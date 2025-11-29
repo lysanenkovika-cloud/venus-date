@@ -2,7 +2,7 @@
   "homepage": "https://lysanenkovika-cloud.github.io/venus-date",
   "name": "venus-date",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "author": "Tabernol",
   "license": "See license ...",
   "description": "React version",

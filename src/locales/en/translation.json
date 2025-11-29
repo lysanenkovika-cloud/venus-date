@@ -1,0 +1,1008 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "gall": {
+    "title": "Let's create your perfect wedding day"
+  },
+  "languages": {
+    "en": "English",
+    "uk": "Українська"
+  },
+  "about": {
+    "heading": "About us",
+    "tagline": "Venus International Matchmaking — since 2008 we help people find love across borders.",
+    "features": [
+      {
+        "id": "founded",
+        "icon": "favorite",
+        "title": "Founded in 2008",
+        "description": "Created by two like-minded friends — Olha Nechaieva and Viktoriia Lysanenko. From day one our goal is genuine, trust-based relationships."
+      },
+      {
+        "id": "europe_focus",
+        "icon": "public",
+        "title": "European focus",
+        "description": "We work worldwide with special attention to Europe. We arrange online meetings and in-person dates — in Ukraine and abroad."
+      },
+      {
+        "id": "results",
+        "icon": "verified",
+        "title": "Proven results",
+        "description": "50+ happy couples and 17 babies; every month we introduce 20+ new people. Every story is unique — clients are treated like family."
+      },
+      {
+        "id": "psych_support",
+        "icon": "psychology",
+        "title": "Psychological support",
+        "description": "We help remove inner barriers, gain confidence, and make thoughtful decisions on the relationship journey."
+      },
+      {
+        "id": "charity",
+        "icon": "volunteer_activism",
+        "title": "Charity & volunteering",
+        "description": "We partner with the Magura Charity Foundation (Poltava), supporting children with special needs. Love also means social responsibility."
+      },
+      {
+        "id": "office",
+        "icon": "location_on",
+        "title": "Office in Poltava center",
+        "description": "A cozy space of trust and openness. For 15+ years we’ve helped people find real love."
+      }
+    ],
+    "full": [
+      "Venus International Matchmaking was founded in 2008 by two friends and like-minded partners — Olha Nechaieva and Viktoriia Lysanenko. From the start, our mission has been to help people find true love without borders.",
+      "Over the years we’ve worked with men from around the world, with a special focus on European countries. We arrange introductions in Ukraine and abroad — from warm online meetings to real-life dates where trust and sincerity grow.",
+      "We count over 50 happy couples and 17 babies born in these strong families. Every month we introduce 20+ new people — via video meetings or in person. Each story is unique, and we treat every client as part of our big family.",
+      "We know the journey to love is more than profiles and dates. It’s also support, trust, and help in important moments. That’s why we provide psychological guidance so clients feel confident in themselves and their choices.",
+      "Charity holds a special place in our work. We closely cooperate with the Magura Charity Foundation (Poltava) and focus on children with special needs. Our team members are active volunteers.",
+      "Our cozy office is located in the very center of Poltava — a welcoming atmosphere of trust and warmth. We believe true love exists for everyone, and for more than 15 years we’ve been helping people find it."
+    ],
+    "viktoria": {
+      "name": "Viktoria",
+      "title": "Co-Founder",
+      "description": "I love what I do and put my heart into it. I’m an international matchmaker with 15 years of experience and a master’s degree in psychology and philology. My mission is to help every woman find inner harmony and meet true love. I’m currently working on my debut book to share insights and real transformation stories."
+    },
+    "olga": {
+      "name": "Olga",
+      "title": "Co-Founder",
+      "description": "My name is Olga. I’m a matchmaker with 15 years of experience, a master of psychology, and the host of the transformational psychological game “Cupid.” My passion is helping women on the path to warm, healthy relationships — from inner clarity to life-changing encounters. I live my work and truly believe every meeting can change a life."
+    }
+  },
+  "services": {
+    "heading": "Our Services",
+    "list": [
+      {
+        "id": "matchmaking",
+        "title": "Personalized Matchmaking",
+        "description": "We select candidates by values, lifestyle, and real family goals. Each person passes a personal check, interview, and screening—so you meet someone you truly want to build a life with."
+      },
+      {
+        "id": "contract",
+        "title": "Transparent Contract & Guarantees",
+        "description": "Before we start, we sign a clear agreement: scope, timelines, guarantees, and responsibilities. This protects your interests and establishes trust."
+      },
+      {
+        "id": "free_consultation",
+        "title": "Free First Consultation",
+        "description": "A friendly, professional meeting online or at our office. We explain the process, answer your questions, and propose a tailored action plan."
+      },
+      {
+        "id": "profile_setup",
+        "title": "Professional Profile Setup",
+        "description": "A profile that works: curated photos, an honest and clear bio, and realistic expectations—designed to attract serious, compatible partners."
+      },
+      {
+        "id": "style_photoshoot",
+        "title": "Style & Photoshoot",
+        "description": "We craft your look, select outfits, and organize a photoshoot. Natural, modern, trust-building photos—an investment in results."
+      },
+      {
+        "id": "cultural_coaching",
+        "title": "Cultural Coaching",
+        "description": "We explain etiquette, family expectations, and cultural nuances of your partner’s country to avoid misunderstandings and build respectful relationships."
+      },
+      {
+        "id": "visa_support",
+        "title": "Visa & Migration Support",
+        "description": "We assist with document packages, apostilles, notarization, and visa/relocation applications—in partnership with vetted attorneys."
+      },
+      {
+        "id": "translation",
+        "title": "Translation & Communication Support",
+        "description": "Document and correspondence translation, plus assistance on calls and meetings. Notarized certification arranged when needed."
+      },
+      {
+        "id": "cupid_game",
+        "title": "Transformational Game “Cupid”",
+        "description": "A guided practice to reveal your relationship patterns, remove inner barriers, and prepare for long-term commitment—so you choose consciously."
+      },
+      {
+        "id": "legal_support",
+        "title": "General Legal Support",
+        "description": "Consulting on contracts, family law, and international procedures. We collaborate with attorneys and migration law specialists."
+      },
+      {
+        "id": "background_check",
+        "title": "Background Checks",
+        "description": "We verify marital status, social standing, and key facts—especially important for international matches."
+      },
+      {
+        "id": "confidentiality",
+        "title": "Confidentiality & Data Protection",
+        "description": "Your data is stored securely; real cases are published only with clients’ permission."
+      },
+      {
+        "id": "personal_manager",
+        "title": "Personal Manager",
+        "description": "One dedicated specialist accompanies you from the first consultation to relocation: coordination, ongoing communication, and decision support."
+      },
+      {
+        "id": "offline_events",
+        "title": "Offline Meetups & Tours",
+        "description": "We organize trips and in-person events for meaningful introductions—program and logistics included."
+      },
+      {
+        "id": "post_marriage_support",
+        "title": "Post-Marriage Support",
+        "description": "Advice on adapting to a new country: daily life, paperwork, relocation questions, and documents for children."
+      }
+    ]
+  },
+  "achievements": {
+    "pairs": {
+      "value": "50+",
+      "title": "Happy couples",
+      "description": "Couples who met through our agency."
+    },
+    "babies": {
+      "value": "17",
+      "title": "Babies",
+      "description": "Born in families that met with our help."
+    },
+    "meets": {
+      "value": "20+",
+      "title": "Introductions per month",
+      "description": "Video meetings and in-person dates every month."
+    }
+  },
+  "contact_us": {
+    "title": "Contact us",
+    "desc": "For further questions please email veneramatchmaking@gmail.com or contact using our contact form.",
+    "fullname": "Full name",
+    "email": "Email",
+    "email_invalid": "Please enter a valid email address",
+    "content": "What can we help you?",
+    "placeholder": "Describe your point of view or desire.",
+    "button_text": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again.",
+    "captcha_required": "Please verify that you are not a robot"
+  },
+  "blog": {
+    "page_title": "Our Blog",
+    "page_subtitle": "Stories, insights, and tips about international matchmaking and building meaningful relationships",
+    "read_more": "Read More",
+    "back_to_blog": "Back to Blog",
+    "posts": [
+      {
+        "id": "1",
+        "slug": "poltava-city-of-brides",
+        "title": "Poltava — City of Brides",
+        "excerpt": "Why do Ukrainian women dream of marrying a foreigner? What are men from Europe and America really like? An honest story about international relationships.",
+        "image": "blog-post-1.jpg",
+        "date": "2025-01-15",
+        "author": "Viktoria & Olga",
+        "content": [
+          {
+            "type": "text",
+            "value": "Many Ukrainian women dream of marrying a foreigner. Some dream of meeting a passionate Italian, others prefer calm Scandinavians, while some dream of a cheerful American. Why is that? Walking the city streets in spring or summer, you'll see crowds of beautiful single women. They're everywhere—working in offices, strolling in White Altanka park, shopping, discussing plans with friends in cafes... But why are they single? Simply because we have few available men with whom we'd want to build a family."
+          },
+          {
+            "type": "text",
+            "value": "Good grooms are taken while still students. The remaining prospects aren't particularly bright—you might end up with a husband who has mistresses, an alcoholic husband, a mama's boy who's never made a decision in his life, a lazy husband, a tyrant husband, and so on. You'll agree, nobody wants such 'happiness' for themselves."
+          },
+          {
+            "type": "text",
+            "value": "Our women want to live in a clean and beautiful country. They want to travel, afford expensive hobbies and passions. A stable future and confidence in tomorrow for their children. But most importantly—sincere, genuine relationships based on love, trust, and loyalty. That's what they want."
+          },
+          {
+            "type": "text",
+            "value": "They want to feel safe and protected, knowing their husband is always there and they don't need to worry about anything, wanting support and involvement, not weakness. This is what makes us strong and happy. This is what unlocks a woman's potential, raises us to another level, and gives us wings. Our priorities and values change."
+          },
+          {
+            "type": "text",
+            "value": "In relationships with foreigners, women don't think about how to feed the family, whether to buy firewood for winter, or how to pay utility bills. Finally, they can focus on themselves, their beauty, sports, find new hobbies, develop themselves, and dedicate time to their desires and goals."
+          },
+          {
+            "type": "text",
+            "value": "Isn't that happiness? — you might ask."
+          },
+          {
+            "type": "heading",
+            "value": "So what are they like — foreign men?"
+          },
+          {
+            "type": "heading",
+            "value": "Responsible"
+          },
+          {
+            "type": "text",
+            "value": "From childhood, Western children are taught to make independent decisions and take responsibility for their actions. And when they grow up, this knowledge, along with the habit, is firmly rooted in their consciousness. They don't need to run to mom for advice or look for a 'nanny' in life. They make decisions and take responsibility for them."
+          },
+          {
+            "type": "text",
+            "value": "Mentality and culture cultivate responsibility in foreigners from the roots. It's customary for them to care for family, children, and wife. Men work from childhood. They know that family responsibility rests on them. They can't afford to spend a day or evening irresponsibly. They wake up early in the morning to work. That's why they go to bed early and don't sit up late watching TV. A foreigner always sees a goal ahead. He knows where he's going and what he's doing. He plans his life and income years ahead."
+          },
+          {
+            "type": "text",
+            "value": "Foreign men don't look for women who cook for themselves. Whatever the case, they have their own upbringing—so it seems funny and incomprehensible to them."
+          },
+          {
+            "type": "heading",
+            "value": "Faithful"
+          },
+          {
+            "type": "text",
+            "value": "Foreigners value their wives. They don't dominate in family relationships. For them, it's natural—to be there, help, and protect. There's no place for rudeness and humiliation in foreign families. In any situation, husband and wife are partners. Each knows the other will always come to help, and each is always devoted to one another."
+          },
+          {
+            "type": "text",
+            "value": "Of course, not all foreigners are like this, but we try to find men who know how to love and work on relationships. These are the ones we match you with."
+          },
+          {
+            "type": "heading",
+            "value": "Well-groomed and Clean"
+          },
+          {
+            "type": "text",
+            "value": "Now it's pointless to argue about Ukraine's and its women's popularity in recent years: the women are beautiful and well-groomed. But men aren't falling behind either. In Europe and America, men take care of themselves and their appearance. They go to the gym, swimming pool, regularly visit the barber, and maintain their wardrobe. This doesn't mean they're all fashionistas, but a well-groomed, healthy, and fit man is the norm at any age."
+          },
+          {
+            "type": "text",
+            "value": "Men don't allow themselves to clutter their home or workplace. Nobody expects that only the wife will do housecleaning. They simply do it together. They have equality in relationships. It's normal to help your wife around the house."
+          },
+          {
+            "type": "heading",
+            "value": "Caring"
+          },
+          {
+            "type": "text",
+            "value": "Foreign grooms constantly try to win over their wives. Not with romantic poems, serenades, or compliments. They don't talk much, they act. And everything they do, they do for their wives, children, and family. They walk with strollers to give their wife a chance to rest and do her own things. They're proud of their wives and their achievements, they want to see admiration in their wives' eyes. And this motivates them, it's like fuel."
+          },
+          {
+            "type": "text",
+            "value": "Foreign men value and respect their wives. They spend weekends, evenings, and vacations together with family. The best gifts are time spent with loved ones."
+          },
+          {
+            "type": "text",
+            "value": "Not every foreigner fits our description above. But this is our typical clientele. Our client won't hang around free dating sites to save money, but will try to get to the best agency seriously."
+          },
+          {
+            "type": "text",
+            "value": "Our client comes to us and says he's looking for a serious woman for a serious relationship. If you don't want to miss such a meeting, we'll be happy to help."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "slug": "marry-a-foreigner",
+        "title": "Marrying a Foreigner",
+        "excerpt": "Today, marriages with citizens of other countries are becoming increasingly popular. What's the reason? We explore the statistics and trends of international marriages.",
+        "image": "blog-post-2.jpg",
+        "date": "2025-01-20",
+        "author": "Viktoria and Olga",
+        "content": [
+          {
+            "type": "text",
+            "value": "Today, marriages with citizens of other countries are becoming increasingly popular."
+          },
+          {
+            "type": "text",
+            "value": "What's the reason? The Ukrainian marriage agency \"Venus\" agreed to help us understand this issue, as they have been successfully helping Ukrainian brides find grooms from abroad for more than 10 years."
+          },
+          {
+            "type": "heading",
+            "value": "International Marriages in Numbers"
+          },
+          {
+            "type": "text",
+            "value": "So, let's see what we have."
+          },
+          {
+            "type": "text",
+            "value": "According to research by the French National Institute of Statistics Insee, based on data from 2015, almost 27% of all marriages concluded in France are international."
+          },
+          {
+            "type": "text",
+            "value": "In 2015, 236,300 marriages were registered, of which 75,800 were with foreigners."
+          },
+          {
+            "type": "text",
+            "value": "For example, in Germany, more than a million people are married to foreigners — this is approximately 7% of the total."
+          },
+          {
+            "type": "text",
+            "value": "It should be noted that most marriages in Germany are concluded within the country, but the divorce rate is quite high: every third marriage ends in divorce."
+          },
+          {
+            "type": "text",
+            "value": "The parents of every fourth child born in Germany are foreigners (according to 2015 data)."
+          },
+          {
+            "type": "text",
+            "value": "In addition, there are significantly more men than women in Germany, so many German men are looking for a life partner in other countries."
+          },
+          {
+            "type": "text",
+            "value": "Often they are in no hurry to marry and postpone having children."
+          },
+          {
+            "type": "text",
+            "value": "According to Venus agency data, marriages with Germans account for about 67% of all successful stories of their clients."
+          },
+          {
+            "type": "heading",
+            "value": "USA and Other Countries"
+          },
+          {
+            "type": "text",
+            "value": "The USA is one of the most open countries in terms of international marriages."
+          },
+          {
+            "type": "text",
+            "value": "America was the first to pay attention to protecting foreign brides."
+          },
+          {
+            "type": "text",
+            "value": "According to IMBRA requirements, all marriage agencies working with foreigners are required to provide accurate information about men: absence of criminal records, financial status, presence of minor children, propensity to violence, etc."
+          },
+          {
+            "type": "text",
+            "value": "This is done so that women feel protected and confident in the future."
+          },
+          {
+            "type": "text",
+            "value": "Venus marriage agency recommends that all its clients carefully check documents and, if possible, conclude a prenuptial agreement to protect themselves."
+          },
+          {
+            "type": "heading",
+            "value": "The East Is Also Opening Up"
+          },
+          {
+            "type": "text",
+            "value": "Now even Japan is opening up for international marriages."
+          },
+          {
+            "type": "text",
+            "value": "The percentage of marriages with foreigners there is still small — about 2%, but it is steadily growing."
+          },
+          {
+            "type": "text",
+            "value": "Men from Japan take family and marriage seriously, are attentive and respectful — true gentlemen."
+          },
+          {
+            "type": "heading",
+            "value": "Ukraine in International Statistics"
+          },
+          {
+            "type": "text",
+            "value": "According to statistics, in 2015, 310 families were created in Ukraine in which one of the spouses was a foreigner."
+          },
+          {
+            "type": "text",
+            "value": "These figures show that the 21st century is erasing borders, and international marriages are becoming the norm."
+          },
+          {
+            "type": "text",
+            "value": "Ukrainian women should not be afraid to seek their happiness abroad."
+          },
+          {
+            "type": "text",
+            "value": "The main thing is to do it consciously and with an understanding of all the nuances."
+          },
+          {
+            "type": "text",
+            "value": "To simplify entry into Europe and avoid possible difficulties, it is recommended to study the rules of residence and your partner's documents in advance."
+          },
+          {
+            "type": "text",
+            "value": "The first meeting and acquaintance is always safer on the territory of your own country, and if something raises doubts — it is better to contact a trusted agency that carefully checks men."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "slug": "first-date-secrets",
+        "title": "First Date — Secrets of Success",
+        "excerpt": "You met an interesting man online, and it's time for the first date. How wonderful it sounds! Learn the secrets of a successful first date from Venus agency experts.",
+        "image": "blog-post-3.jpg",
+        "date": "2025-01-25",
+        "author": "Viktoria and Olga",
+        "content": [
+          {
+            "type": "text",
+            "value": "You met an interesting man online, and it's time for the first date."
+          },
+          {
+            "type": "text",
+            "value": "How wonderful it sounds — \"first date\"!"
+          },
+          {
+            "type": "text",
+            "value": "So many hopes... so much effort..."
+          },
+          {
+            "type": "text",
+            "value": "And suddenly it seems like everything went wonderfully, but the man no longer calls or writes."
+          },
+          {
+            "type": "text",
+            "value": "And you can't understand what went wrong and what your mistake was."
+          },
+          {
+            "type": "text",
+            "value": "We decided to help solve the eternal question — how to behave on a first date."
+          },
+          {
+            "type": "text",
+            "value": "Venus International Marriage Agency has helped organize hundreds of first dates, and we can certainly be experts on this issue."
+          },
+          {
+            "type": "text",
+            "value": "Of course, our advice is primarily suitable for dates with foreigners, but will certainly be useful to each of you."
+          },
+          {
+            "type": "heading",
+            "value": "Clothing"
+          },
+          {
+            "type": "text",
+            "value": "What do you think about when getting ready for a first date?"
+          },
+          {
+            "type": "text",
+            "value": "The same thought keeps spinning in your head — \"What should I wear?\""
+          },
+          {
+            "type": "text",
+            "value": "And that's right. As they say: \"You're judged by your appearance.\""
+          },
+          {
+            "type": "text",
+            "value": "But the main thing is not to overdo it."
+          },
+          {
+            "type": "text",
+            "value": "Any girl wants to impress a man with her beauty at first sight. But you should remember what kind of man you're looking for."
+          },
+          {
+            "type": "text",
+            "value": "If external effects are important to someone, then for serious relationships, the image should be natural but modest."
+          },
+          {
+            "type": "text",
+            "value": "You don't need to show all your \"trump cards\" at once."
+          },
+          {
+            "type": "text",
+            "value": "This attracts men who are interested more in entertainment than in family."
+          },
+          {
+            "type": "text",
+            "value": "This is especially true for foreign men, because in many countries girls dress more modestly than in Ukraine."
+          },
+          {
+            "type": "text",
+            "value": "Shoes are also very important."
+          },
+          {
+            "type": "text",
+            "value": "Choose between shoes with a small heel and fashionable shoes without heels — the main thing is that you are comfortable."
+          },
+          {
+            "type": "text",
+            "value": "Don't wear new items that you haven't broken in yet, and avoid too high heels."
+          },
+          {
+            "type": "text",
+            "value": "If you're not sure — it's time to wear classics."
+          },
+          {
+            "type": "heading",
+            "value": "Makeup"
+          },
+          {
+            "type": "text",
+            "value": "Makeup is an integral part of your image."
+          },
+          {
+            "type": "text",
+            "value": "How tempting it is to make your lips bigger, eyes brighter, and cheekbones sharper!"
+          },
+          {
+            "type": "text",
+            "value": "But remember: everything is good in moderation."
+          },
+          {
+            "type": "text",
+            "value": "Don't turn your first date into a makeup artist skills demonstration."
+          },
+          {
+            "type": "text",
+            "value": "Especially if you met online, where he will see you in person for the first time."
+          },
+          {
+            "type": "text",
+            "value": "We recommend natural makeup that will help reveal your natural beauty."
+          },
+          {
+            "type": "heading",
+            "value": "Fragrance"
+          },
+          {
+            "type": "text",
+            "value": "Fragrance is the finishing note of your image."
+          },
+          {
+            "type": "text",
+            "value": "Your perfume should not be too sharp or sweet."
+          },
+          {
+            "type": "text",
+            "value": "We recommend choosing light, neutral and fresh fragrances."
+          },
+          {
+            "type": "heading",
+            "value": "Mistakes or What Not to Do and What Not to Talk About"
+          },
+          {
+            "type": "text",
+            "value": "Don't talk about the past."
+          },
+          {
+            "type": "text",
+            "value": "Many girls like to talk about past relationships and discuss ex-partners."
+          },
+          {
+            "type": "text",
+            "value": "This is FORBIDDEN on a first date."
+          },
+          {
+            "type": "text",
+            "value": "Try to give all your attention to the man — let the first date be dedicated to him."
+          },
+          {
+            "type": "text",
+            "value": "Don't complain."
+          },
+          {
+            "type": "text",
+            "value": "Complaining about life, work, family or men is a bad idea."
+          },
+          {
+            "type": "text",
+            "value": "Men don't like to listen to negativity."
+          },
+          {
+            "type": "text",
+            "value": "Even if life isn't perfect right now, leave it outside the cafe doors."
+          },
+          {
+            "type": "text",
+            "value": "Keep a positive attitude — and this will be the key to a successful meeting."
+          },
+          {
+            "type": "text",
+            "value": "Don't be late."
+          },
+          {
+            "type": "text",
+            "value": "If a man came from another country and is in Ukraine for the first time, don't make him wait."
+          },
+          {
+            "type": "text",
+            "value": "Punctuality is a sign of respect."
+          },
+          {
+            "type": "text",
+            "value": "What if you don't know the language?"
+          },
+          {
+            "type": "text",
+            "value": "A translator will come to your aid."
+          },
+          {
+            "type": "text",
+            "value": "Don't worry — it's your helper, not a barrier."
+          },
+          {
+            "type": "text",
+            "value": "If you haven't started learning the language yet, it's okay."
+          },
+          {
+            "type": "text",
+            "value": "The best relationships are born in the process of communication, even if you use gestures and emotions."
+          },
+          {
+            "type": "text",
+            "value": "Remember that any man expects a smile and friendliness from a woman — this is a universal language."
+          },
+          {
+            "type": "text",
+            "value": "And yes, love at first sight does happen!"
+          },
+          {
+            "type": "text",
+            "value": "But if it didn't happen right away — no problem."
+          },
+          {
+            "type": "text",
+            "value": "The main thing is to be yourself, not play a role, and just enjoy the meeting."
+          },
+          {
+            "type": "text",
+            "value": "Let it be the beginning of something beautiful."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "slug": "love-at-a-distance",
+        "title": "Love at a Distance",
+        "excerpt": "We live in the 21st century, and it's quite possible that your love is not only in another city but in another country. A real story of online dating.",
+        "image": "blog-post-4.jpg",
+        "date": "2025-01-30",
+        "author": "Viktoria and Olga",
+        "content": [
+          {
+            "type": "text",
+            "value": "We live in the 21st century."
+          },
+          {
+            "type": "text",
+            "value": "In our time, we can't do without computers and the internet. And it's quite possible that your love is not only in another city but in another country."
+          },
+          {
+            "type": "text",
+            "value": "It's quite likely that your beloved is sitting on a dating site right now looking for you."
+          },
+          {
+            "type": "text",
+            "value": "According to a study by American scientists (surveying more than 20,000 married people), 36% of marriages were created through online dating."
+          },
+          {
+            "type": "text",
+            "value": "And Ukraine is not far behind the USA: in our country, more than 20% of couples find each other online."
+          },
+          {
+            "type": "text",
+            "value": "We turned to Venus International Marriage Agency for a successful example of virtual dating."
+          },
+          {
+            "type": "text",
+            "value": "With the permission of their clients, we present to you fragments of their romantic story."
+          },
+          {
+            "type": "heading",
+            "value": "The Correspondence"
+          },
+          {
+            "type": "message",
+            "sender": "male",
+            "value": "Hi! I saw your smile and couldn't help but write. It was nice to learn that behind this beautiful smile is such an interesting person. :)\n\nI love traveling. How do you spend your free time?\n\nI see you work — what do you do?\n\nAre you so serious?\n\nAbout myself: I'm a programmer, I live in Frankfurt. I love my work, my family, I love mathematics. I hope you won't consider me boring.\n\nTell me, which cities of Ukraine do you love? I've always wanted to explore them. I hope you'll like my letter and respond."
+          },
+          {
+            "type": "message",
+            "sender": "female",
+            "value": "In my free time... I really love traveling, and as soon as I manage to get a couple of free days — I go to conquer new cities of Ukraine.\n\nMy hobby: sports and ballet.\n\nI always try to stay in shape. True, I can't stand when people lie. Maybe it's not the best trait.\n\nBut that's who I am.\n\nP.S. Friends call me Panther. :)"
+          },
+          {
+            "type": "message",
+            "sender": "male",
+            "value": "Hi, Nadya. I hope I can call you that. :)\n\nYou know, I also don't like lies. I've had enough of them, and I try to avoid people who are insincere.\n\nI like you.\n\nYou're a beautiful and smart girl — a rare combination!\n\nI've always respected strong women, especially in Ukraine.\n\nI have little time, I work all the time and travel. Maybe it's my destiny..."
+          },
+          {
+            "type": "message",
+            "sender": "female",
+            "value": "Christoph, your letter made me smile. A magician? Really?\n\nWell, in a sense, yes. :)\n\nYou ask what I do, if I've been to Poland?\n\nYes, I have — both in Warsaw and Gdansk. Magical places!\n\nWhat's closer to you — mountains or sea?\n\nThe sea is closer to me, I dream of going to Italy one day.\n\nChristoph, I didn't think it was possible to meet such an interesting person through the internet.\n\nI thought: why not give it a try. :)\n\nAnd here I am.\n\nI liked how seriously you talked about yourself and your life.\n\nIt was sweet."
+          },
+          {
+            "type": "message",
+            "sender": "male",
+            "value": "Nadya, it's very easy for me to communicate with you. It's nice when you're understood.\n\nI hope we'll get to know each other even better.\n\nYou know, I'm already seriously thinking about meeting.\n\nIt's cold in Germany now, but it's probably warmer where you are.\n\nI'd like to come in spring.\n\nWhat do you think about that?\n\nI love when everything happens naturally.\n\nI really like you."
+          },
+          {
+            "type": "message",
+            "sender": "female",
+            "value": "That sounds unexpected, but pleasant.\n\nYes, it's already warm and beautiful here in spring.\n\nThe park blooms, everything around comes to life.\n\nI think it will be a wonderful time to meet.\n\nI love when everything just falls into place. :)"
+          },
+          {
+            "type": "message",
+            "sender": "male",
+            "value": "You know, Nadya, this was all unexpected.\n\nI can't say I'm a romantic, but you've changed my idea of love.\n\nTell me, is it the sea that draws you so much?\n\nYou wrote about Italy — I was there a couple of years ago.\n\nIt's an amazing country.\n\nI'd love to show it to you.\n\nIf you want — write your address.\n\nI'll send you a postcard from Frankfurt."
+          },
+          {
+            "type": "message",
+            "sender": "female",
+            "value": "Christoph, like any girl, I love roses, chocolate and perfume.\n\nI'll be happy with any postcard from your hometown. ❤️"
+          },
+          {
+            "type": "message",
+            "sender": "male",
+            "value": "Nadya, don't worry! If it makes you feel better — you're not alone, I'm here.\n\nYou know, I think we're very similar.\n\nYou're smart, kind and genuine.\n\nYou'll receive my letter soon, and I'm looking forward to our conversation.\n\nMaybe someday we'll meet not only with words, but with our eyes."
+          },
+          {
+            "type": "text",
+            "value": "Their correspondence continued for several more months."
+          },
+          {
+            "type": "text",
+            "value": "Christoph kept his word and flew to Poltava."
+          },
+          {
+            "type": "text",
+            "value": "They spent several weeks together, and three months later they had a wedding in Germany."
+          },
+          {
+            "type": "text",
+            "value": "Now they live happily and remember how their love story began."
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "slug": "love-beyond-borders",
+        "title": "Love Beyond Borders",
+        "excerpt": "Moving to another country is always an exciting and important decision. How to successfully adapt to a new life? Advice from Venus agency and real client stories.",
+        "image": "blog-post-5.jpg",
+        "date": "2025-02-05",
+        "author": "Viktoria and Olga",
+        "content": [
+          {
+            "type": "text",
+            "value": "Moving to another country is always an exciting and important decision that opens new opportunities."
+          },
+          {
+            "type": "text",
+            "value": "Some people meet for international marriage in advance, while others already see themselves in a new family and are preparing to relocate."
+          },
+          {
+            "type": "text",
+            "value": "How does this happen, what difficulties do they face, and how to facilitate successful adaptation — we decided to turn to one of the partner marriage agencies in Poltava — Venus."
+          },
+          {
+            "type": "text",
+            "value": "The rules below include only general recommendations."
+          },
+          {
+            "type": "text",
+            "value": "Since an individual approach is developed for each client depending on the country and situation."
+          },
+          {
+            "type": "heading",
+            "value": "Rule #1. Clarity"
+          },
+          {
+            "type": "text",
+            "value": "Understand clearly what you want from relocation and whether you are sure that you can not just go, but also live in another country."
+          },
+          {
+            "type": "text",
+            "value": "Love is wonderful, but you need to be realistic about what awaits you: new conditions, climate, language, culture, cuisine, traditions, and even everyday details."
+          },
+          {
+            "type": "text",
+            "value": "It is very important to be honest with yourself and with your future husband: what you expect, what you hope for, whether you are ready to adapt."
+          },
+          {
+            "type": "text",
+            "value": "Be honest about your own wishes — first and foremost with yourself."
+          },
+          {
+            "type": "heading",
+            "value": "Rule #2. Don't Rush Things"
+          },
+          {
+            "type": "text",
+            "value": "Before making a final decision, it's worth visiting the new country in advance — as a tourist."
+          },
+          {
+            "type": "text",
+            "value": "Get acquainted with its atmosphere, people, lifestyle, understand if it suits you."
+          },
+          {
+            "type": "text",
+            "value": "Men usually help organize the trip, and the agency will help with documents if necessary."
+          },
+          {
+            "type": "heading",
+            "value": "Rule #3. Patience"
+          },
+          {
+            "type": "text",
+            "value": "In new bureaucratic states (and there are most of them) obtaining visas, documents, marriage certificates and other papers takes time."
+          },
+          {
+            "type": "text",
+            "value": "Don't get irritated and rush — the process can take months."
+          },
+          {
+            "type": "text",
+            "value": "Let everything take its course: it's important to maintain calm and readiness for changes."
+          },
+          {
+            "type": "heading",
+            "value": "Rule #4. Respect"
+          },
+          {
+            "type": "text",
+            "value": "Every country has its own traditions, behavioral norms, and even attitudes towards marriage."
+          },
+          {
+            "type": "text",
+            "value": "Everything that seemed familiar in Ukraine may be perceived differently abroad."
+          },
+          {
+            "type": "text",
+            "value": "Therefore, it's important not only to accept the new culture, but also to respect it."
+          },
+          {
+            "type": "text",
+            "value": "Don't argue if something is unfamiliar — observe, learn, adapt."
+          },
+          {
+            "type": "heading",
+            "value": "Rule #5. Don't Forget About Yourself"
+          },
+          {
+            "type": "text",
+            "value": "Life abroad is a new stage, but it's important to preserve yourself, your hobbies and inner world."
+          },
+          {
+            "type": "text",
+            "value": "Ukrainian women are strong and independent, and that's exactly what attracts men."
+          },
+          {
+            "type": "text",
+            "value": "Let your habits and talents stay with you."
+          },
+          {
+            "type": "text",
+            "value": "Be a woman who inspires."
+          },
+          {
+            "type": "text",
+            "value": "Venus marriage agency notes: most successful stories are associated with those women who consciously approached relocation, prepared in advance, studied the culture and language of the new country, maintained inner harmony and self-respect."
+          },
+          {
+            "type": "text",
+            "value": "As the agency director says, \"each love story has its own formula for success. The main thing is to be yourself and believe in the best.\""
+          },
+          {
+            "type": "heading",
+            "value": "Client Experience"
+          },
+          {
+            "type": "text",
+            "value": "Svetlana, 37, Germany:"
+          },
+          {
+            "type": "text",
+            "value": "\"My move took place in 2016. At first it was scary, but the agency helped with documents, visa, and most importantly — with psychological preparation."
+          },
+          {
+            "type": "text",
+            "value": "Now I live in Cologne, we have a son and everything is good. The main thing is not to rush, but to move forward in small steps.\""
+          },
+          {
+            "type": "text",
+            "value": "Olga, 29, Italy:"
+          },
+          {
+            "type": "text",
+            "value": "\"When I moved, they helped me adapt and even find work."
+          },
+          {
+            "type": "text",
+            "value": "I completed Italian language courses and now work in a children's center."
+          },
+          {
+            "type": "text",
+            "value": "Everything worked out because I wasn't afraid to learn new things.\""
+          }
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Love Stories",
+    "subtitle": "Discover the beautiful stories of couples who found their perfect match",
+    "couples": [
+      {
+        "id": "1",
+        "image": "olga_scott.jpg",
+        "name": "Olga and Scott",
+        "story": "A wonderful love story that began on a sunny day in Paris. Their journey together has been filled with adventures, laughter, and endless support for one another."
+      },
+      {
+        "id": "2",
+        "image": "anna_thomas.jpg",
+        "name": "Anna and Thomas",
+        "story": "They met in a coffee shop and never parted again. Their shared passion for travel and photography brought them together forever..."
+      },
+      {
+        "id": "3",
+        "image": "nina_genrih.jpg",
+        "name": "Nina and Genrih",
+        "story": "They met in a coffee shop and never parted again. Their shared passion for travel and photography brought them together forever..."
+      },
+      {
+        "id": "104",
+        "image": "default.png",
+        "name": "Iryna and Luca",
+        "story": "They matched over their love for rescue animals and met during a weekend in Kraków. Between Milan and Lviv, they traded night trains and handwritten notes—until Luca proposed by Lake Como at sunrise."
+      },
+      {
+        "id": "105",
+        "image": "default.png",
+        "name": "Kateryna and Hugo",
+        "story": "A barista and a French architect who kept sketching her latte art on napkins. The doodles turned into plans; the plans turned into a tiny flat with big windows and bigger dreams."
+      },
+      {
+        "id": "106",
+        "image": "default.png",
+        "name": "Svitlana and Marc",
+        "story": "They joined the same hiking group in the Carpathians. By the time they reached Hoverla, they’d already planned a life of weekend trails and mid-week paellas between Kyiv and Barcelona."
+      },
+      {
+        "id": "107",
+        "image": "default.png",
+        "name": "Daria and Pierre",
+        "story": "They collided in a museum gift shop over the last postcard of the Odesa Opera. He let her keep it; she wrote her number on the back. A month later, Paris felt like home."
+      },
+      {
+        "id": "108",
+        "image": "default.png",
+        "name": "Alina and Jonas",
+        "story": "Two code geeks who met at a hackathon in Berlin. Their first project crashed, their second won a prize, and the third was a wedding website with an Easter egg only they can find."
+      },
+      {
+        "id": "109",
+        "image": "default.png",
+        "name": "Viktoria and Matteo",
+        "story": "She teased that varenyky beat ravioli; he countered with tiramisu. A cooking class settled nothing—except that they taste better together."
+      },
+      {
+        "id": "110",
+        "image": "default.png",
+        "name": "Olena and Liam",
+        "story": "A fogged-in airport turned a layover into a book swap. Now every trip they take begins with a bookstore and ends with a note tucked between the pages."
+      },
+      {
+        "id": "111",
+        "image": "default.png",
+        "name": "Yuliya and Oliver",
+        "story": "They met at a language exchange where their accents did most of the flirting. By summer they were practicing tenses by the sea and promising forever without translating it."
+      },
+      {
+        "id": "112",
+        "image": "default.png",
+        "name": "Liliya and Adrien",
+        "story": "He asked for the seat near the stage at a Kyiv jazz bar; she was the pianist. The encore was a polaroid, a shared dessert, and a cat they later named ‘Jazz’."
+      },
+      {
+        "id": "113",
+        "image": "default.png",
+        "name": "Bogdana and Oscar",
+        "story": "A charity bike ride put them in the same peloton. After 100 kilometers of rain and laughter through Dutch fields, they crossed the finish line already planning the next route."
+      }
+    ]
+  }
+}

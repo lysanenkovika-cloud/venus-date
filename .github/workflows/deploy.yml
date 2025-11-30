@@ -33,6 +33,14 @@ jobs:
           echo "Checking for symlinks in build folder..."
           find build -type l
           echo "If above returns any paths, remove them before deploying."
+          
+      - name: Remove symlinks
+        run: find build -type l -exec rm -v {} \;
+
+      - name: Remove system files
+        run: |
+          find build -name ".DS_Store" -delete
+          find build -name "Thumbs.db" -delete
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4

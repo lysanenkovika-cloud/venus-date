@@ -1,7 +1,7 @@
 name: CI/CD for GitHub Pages
 
 on:
-  workflow_dispatch:  # Дозволяє запускати вручну з GitHub UI
+  workflow_dispatch:  # дозволяє запускати вручну
   push:
     branches:
       - main
@@ -10,21 +10,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Use Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      - name: Clean old build
+        run: rm -rf build
+
       - name: Install dependencies
         run: npm ci
 
-      - name: Build
-        # todo tix export defaul with import/no-anonymous-default-export
+      - name: Build React app
+        # CI=false щоб warning-и eslint не ставали помилками
         run: CI=false npm run build
 
-      - name: Upload artifact
+      - name: Check for symlinks in build
+        run: |
+          echo "Checking for symlinks in build folder..."
+          find build -type l
+          echo "If above returns any paths, remove them before deploying."
+
+      - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
